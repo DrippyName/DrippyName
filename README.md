@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on the next biggest discord bot!
 - 📫 How to reach me you can Join my Discord server [here](https://discord.gg/7Da4AQhu4s)
 
+<a href="(https://discord.gg/7Da4AQhu4s">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+
 <br/>
 
 ## GitHub Statistics
